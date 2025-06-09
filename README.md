@@ -56,7 +56,9 @@ The model is built using **TensorFlow Keras Sequential API** and trained for **b
 
 ## 📊 Metrics
 
-> _Coming soon: Accuracy, Precision, Recall, F1 Score, Confusion Matrix_
+| Recall       | False Positive   | Loss         |
+|--------------|------------------|--------------|
+| 0.94         | 0.0              | 0.0416       |
 
 ---
 
